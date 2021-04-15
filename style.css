@@ -1,0 +1,44 @@
+nav ul li {
+  display:inline;
+  margin-left: 10px;
+  margin-right: 10px;
+  font-family: 'New Tegomin', serif;
+}
+nav ul {
+  background-color: yellow;
+  border-style: solid;
+  border-color: MediumVioletRed;
+  border-width: 2px;
+  padding: 10px;
+}
+nav ul li a {
+    text-decoration: none;
+}
+p {
+  font-size:20px;
+  font-family: 'Indie Flower', cursive;
+  color: black;
+  line-height:1.6;
+  text-align:justify;
+}
+body {
+  background-color: white;
+}
+table, th, td {
+  border: 1px solid HoneyDew;
+  border-collapse: collapse;
+}
+tr {
+  background-color: yellow;
+}
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+th {
+  color: red;
+}
+td {
+  color: blue;
+}
